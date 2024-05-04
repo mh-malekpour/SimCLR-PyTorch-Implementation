@@ -161,3 +161,7 @@ cython_debug/
 
 # Mac OS
 .DS_Store
+
+# Data
+./data/*
+./datasets/*
